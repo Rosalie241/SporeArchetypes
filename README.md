@@ -32,7 +32,7 @@
 | TRG_NPC_Large_Predator2 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 11-20 | N/A |
 | TRG_NPC_Large_Predator3 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 11-20 | N/A |
 | TRG_NPC_Large_Prey | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 11-20 | N/A | N/A | N/A | N/A | N/A | N/A |
-| TRG_NPC_Large_Prey2 | N/A | N/A | N/A | N/A | 0-5 | 0-5 | 0-5 | 0-5 | 11-20 | N/A | N/A | N/A | N/A | N/A | N/A |
+| TRG_NPC_Large_Prey2 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 11-20 | N/A | N/A | N/A | N/A | N/A | N/A |
 | TRG_NPC_Medium_Prey | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 5-20 | 0-4 | 0-4 | 0-4 | 0-4 | N/A | 0-5 |
 | TRG_NPC_Small_Prey | N/A | N/A | N/A | 1-100 | N/A | N/A | N/A | N/A | 2-20 | 0-3 | 0-3 | 0-3 | 0-3 | N/A | N/A |
 | TRG_NPC_TribeCreature | N/A | 500-50000 | 1-100 | 1-100 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
